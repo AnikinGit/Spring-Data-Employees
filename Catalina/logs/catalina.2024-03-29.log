@@ -1,0 +1,46 @@
+29-Mar-2024 16:09:47.765 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Имя версии сервера:    Apache Tomcat/10.1.19
+29-Mar-2024 16:09:47.795 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Сервер собран:         Feb 14 2024 19:36:50 UTC
+29-Mar-2024 16:09:47.796 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Номер версии сервера:  10.1.19.0
+29-Mar-2024 16:09:47.797 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 10
+29-Mar-2024 16:09:47.797 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Версия ОС:             10.0
+29-Mar-2024 16:09:47.797 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Архитектура:           amd64
+29-Mar-2024 16:09:47.798 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             C:\Users\Taras\.jdks\openjdk-21.0.1
+29-Mar-2024 16:09:47.798 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Версия JVM:            21.0.1+12-29
+29-Mar-2024 16:09:47.798 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Производитель JVM:     Oracle Corporation
+29-Mar-2024 16:09:47.799 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         C:\Users\Taras\IdeaProjects\Spring-Data-Employees\Catalina
+29-Mar-2024 16:09:47.799 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         C:\_APPs\Tomcat\apache-tomcat-10.1.19
+29-Mar-2024 16:09:47.877 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang=ALL-UNNAMED
+29-Mar-2024 16:09:47.877 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.io=ALL-UNNAMED
+29-Mar-2024 16:09:47.878 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util=ALL-UNNAMED
+29-Mar-2024 16:09:47.878 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util.concurrent=ALL-UNNAMED
+29-Mar-2024 16:09:47.878 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+29-Mar-2024 16:09:47.878 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -agentlib:jdwp=transport=dt_socket,address=127.0.0.1:50113,suspend=y,server=n
+29-Mar-2024 16:09:47.879 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=C:\_APPs\Tomcat\apache-tomcat-10.1.19
+29-Mar-2024 16:09:47.879 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=C:\Users\Taras\IdeaProjects\Spring-Data-Employees\Catalina
+29-Mar-2024 16:09:47.879 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=C:\Users\Taras\IdeaProjects\Spring-Data-Employees\Catalina\temp
+29-Mar-2024 16:09:47.880 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=C:\Users\Taras\IdeaProjects\Spring-Data-Employees\Catalina\conf\logging.properties
+29-Mar-2024 16:09:47.880 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+29-Mar-2024 16:09:47.880 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -javaagent:C:\Users\Taras\AppData\Local\JetBrains\IdeaIC2023.3\captureAgent\debugger-agent.jar
+29-Mar-2024 16:09:47.881 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dfile.encoding=UTF-8
+29-Mar-2024 16:09:47.881 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dsun.stdout.encoding=UTF-8
+29-Mar-2024 16:09:47.881 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dsun.stderr.encoding=UTF-8
+29-Mar-2024 16:09:48.303 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent Loaded Apache Tomcat Native library [2.0.7] using APR version [1.7.4].
+29-Mar-2024 16:09:48.359 INFO [main] org.apache.catalina.core.AprLifecycleListener.initializeSSL OpenSSL successfully initialized [OpenSSL 3.0.13 30 Jan 2024]
+29-Mar-2024 16:09:49.878 INFO [main] org.apache.coyote.AbstractProtocol.init Инициализация ProtocolHandler ["http-nio-8080"]
+29-Mar-2024 16:09:49.988 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [3309] milliseconds
+29-Mar-2024 16:09:50.195 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+29-Mar-2024 16:09:50.195 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/10.1.19]
+29-Mar-2024 16:09:50.242 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [C:\Users\Taras\IdeaProjects\Spring-Data-Employees\Catalina\conf\Catalina\localhost\ROOT.xml]
+29-Mar-2024 16:10:07.328 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+29-Mar-2024 16:10:15.104 INFO [main] org.hibernate.jpa.internal.util.LogHelper.logPersistenceUnitInformation HHH000204: Processing PersistenceUnitInfo [name: default]
+29-Mar-2024 16:10:16.148 INFO [main] org.hibernate.Version.logVersion HHH000412: Hibernate ORM core version 6.4.4.Final
+29-Mar-2024 16:10:16.753 INFO [main] org.hibernate.cache.internal.RegionFactoryInitiator.initiateService HHH000026: Second-level cache disabled
+29-Mar-2024 16:10:24.297 WARN [main] org.hibernate.engine.jdbc.dialect.internal.DialectFactoryImpl.constructDialect HHH90000025: MySQLDialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
+29-Mar-2024 16:10:40.242 INFO [main] org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator.initiateService HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+29-Mar-2024 16:10:44.549 INFO [main] org.hibernate.jpa.internal.util.LogHelper.logPersistenceUnitInformation HHH000204: Processing PersistenceUnitInfo [name: default]
+29-Mar-2024 16:10:44.599 INFO [main] org.hibernate.cache.internal.RegionFactoryInitiator.initiateService HHH000026: Second-level cache disabled
+29-Mar-2024 16:10:44.736 WARN [main] org.hibernate.engine.jdbc.dialect.internal.DialectFactoryImpl.constructDialect HHH90000025: MySQLDialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
+29-Mar-2024 16:10:45.045 INFO [main] org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator.initiateService HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+29-Mar-2024 16:10:49.614 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [C:\Users\Taras\IdeaProjects\Spring-Data-Employees\Catalina\conf\Catalina\localhost\ROOT.xml] has finished in [59 336] ms
+29-Mar-2024 16:10:49.633 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+29-Mar-2024 16:10:49.753 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [59761] milliseconds
